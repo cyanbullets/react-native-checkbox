@@ -1,5 +1,5 @@
 {
-  "name": "@cyanbullets/checkbox",
+  "name": "cyanbullets-checkbox",
   "version": "0.0.1",
   "description": "React Native Checkbox native modules for Android , iOS and Windows",
   "keywords": [
