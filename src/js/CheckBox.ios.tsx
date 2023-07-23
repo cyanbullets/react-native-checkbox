@@ -150,8 +150,8 @@ class CheckBox extends React.Component<Props> {
 
 const styles = StyleSheet.create({
   rctCheckBox: {
-    height: 32,
-    width: 32,
+    height: 22,
+    width: 22,
     backgroundColor: 'transparent',
   },
 });
