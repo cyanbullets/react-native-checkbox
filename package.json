@@ -1,4 +1,17 @@
 {
+  "name": "@cyanbullets/checkbox",
+  "version": "0.0.1",
+  "description": "React Native Checkbox native modules for Android , iOS and Windows",
+  "keywords": [
+    "checkbox",
+    "react native",
+    "react-native"
+  ],
+  "homepage": "https://github.com/cyanbullets/react-native-checkbox#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cyanbullets/react-native-checkbox"
+  },
   "private": true,
   "workspaces": [ "src", "example" ],
   "scripts": {
