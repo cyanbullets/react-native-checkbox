@@ -1,5 +1,5 @@
 {
-  "name": "@react-native-community/checkbox",
+  "name": "cyanbullets/checkbox",
   "version": "0.5.16",
   "description": "React Native Checkbox native modules for Android , iOS and Windows",
   "keywords": [
@@ -7,10 +7,10 @@
     "react native",
     "react-native"
   ],
-  "homepage": "https://github.com/react-native-community/react-native-checkbox#readme",
+  "homepage": "https://github.com/cyanbullets/react-native-checkbox/tree/develop#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/react-native-community/react-native-checkbox.git"
+    "url": "https://github.com/cyanbullets/react-native-checkbox/tree/develop"
   },
   "license": "MIT",
   "author": "Nicholas Lee <nicholaslee119@gmail.com>",
